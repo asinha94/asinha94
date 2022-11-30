@@ -1,4 +1,4 @@
-![](https:/github.com/asinha/asinha94/blob/master/banner.gif)
+![](https:/github.com/asinha/asinha94/raw/master/banner.gif)
 
 
 Hi! My name is Anuraag Sinha. I am a Computer Engineer who enjoys pulling things apart to see how they work.
