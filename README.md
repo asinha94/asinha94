@@ -1,5 +1,18 @@
-### Hi there 👋
+![](https:/github.com/asinha/asinha94/blob/master/banner.gif)
 
+
+Hi! My name is Anuraag Sinha. I am a Computer Engineer who enjoys pulling things apart to see how they work.
+
+I specialize in using the following langauges
+- C 
+- C++
+- Python
+
+I am interested in the following areas
+- Operating Systems
+- Game development
+    - Graphics Rendering techniques
+- Compilers
 <!--
 **asinha94/asinha94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
