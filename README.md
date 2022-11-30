@@ -1,9 +1,9 @@
 ![](https://raw.githubusercontent.com/asinha94/asinha94/master/banner.gif)
 
 
-Hi! My name is Anuraag Sinha. I am a Computer Engineer who enjoys pulling things apart to see how they work.
+Hi! My name is Anuraag Sinha. I am a Computer Engineer who enjoys pulling things apart to see how they work. At my dayjob I work at a startup that develops a CDN that can be deployed to the outskirts of the internet(e.g a train) to enable a better video streaming experience.
 
-Fine me at
+Find me at
 <a href="https://www.linkedin.com/in/anuraagsinha/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="20" width="20" /></a>
 <a href="https://www.github.com/asinha94" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="20" width="20" /></a> 
 
@@ -11,6 +11,9 @@ I specialize in using the following langauges
 - C
 - C++
 - Python
+
+I am looking to learn the following languages as well
+- Rust
 
 I am interested and actively learning about the following areas
 - Operating Systems
