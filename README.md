@@ -7,7 +7,7 @@ Find me at
 <a href="https://www.linkedin.com/in/anuraagsinha/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="20" width="20" /></a>
 <a href="https://www.github.com/asinha94" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="20" width="20" /></a> 
 
-I specialize in using the following langauges
+I specialize in using the following languages
 - C
 - C++
 - Python
